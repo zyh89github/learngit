@@ -1,0 +1,35 @@
+{
+  "name": "1DTP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-css-spriter": "^0.4.0",
+    "gulp-file-include": "^2.0.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-make-css-url-version": "0.0.13",
+    "gulp-rename": "^1.3.0",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "imagemin-pngquant": "^5.1.0",
+    "pump": "^3.0.0"
+  }
+}
